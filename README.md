@@ -1,1 +1,11 @@
-# DevOps for Absolute Beginners with Jenkins Docker Swarm Kubernetes GIT Terraform AWS with DevOps Realworld Exercises
+# DevOps for Absolute Beginners 
+
+- Jenkins 
+- Docker
+- Docker Swarm 
+- Kubernetes 
+- GIT 
+- Terraform 
+- AWS 
+
+## DevOps Realworld Exercises
