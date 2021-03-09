@@ -1,7 +1,5 @@
 pipeline {
 	timestamps {
-    		// some block
-		}	
 	agent any
 	stages {
             stage('Init') {
@@ -26,4 +24,5 @@ pipeline {
                   }
             }
       }
+ }
 }
