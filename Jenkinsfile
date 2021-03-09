@@ -1,6 +1,9 @@
 pipeline {
-      agent any
-      stages {
+	timestamps {
+    		// some block
+		}	
+	agent any
+	stages {
             stage('Init') {
                   steps {
                         echo 'Hi, this is Anshul from LevelUp360'
